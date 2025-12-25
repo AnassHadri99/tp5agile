@@ -1,6 +1,6 @@
 def greet(name):
     """Fonction qui accueille l'utilisateur par son nom"""
-    return f"Bonjour, {name}!"
+    return f"Bonjour, {name}! Bienvenue dans notre application!"
 
 def main():
     print("Hello, World!")
